@@ -1,0 +1,8 @@
+.block_text_php {
+    color: red; display: block; margin: 0 auto; font-size: 25px; text-align: center; position: relative; margin-top: 20%;
+}
+.txt_php {
+    color: green;
+    font-style: bold;
+    font-size: 25px;
+}
